@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ilyes-Azni, student in Aix-Marseille Uni, Master Degree in Education.
+-  _currently_ IBM Data Science Pro Certificate in coursera. 
+-  Can't wait to share w/ y'all my Data Science projects.
