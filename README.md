@@ -1,8 +1,6 @@
 👨‍💻 Ilyes Azouani | Data Scientist & ML Security aspiring researcher
 
-🔍 About Me
-
-hi there! I'm Ilyes, a data scientist specializing in computer vision and machine learning security. I build tools and frameworks to make ML systems more robust, secure, and effective.
+hi there! I'm Ilyes, data scientist specializing in computer vision and machine learning security. I build tools and frameworks to make ML systems more robust, secure, and effective.
 
 🛠️ Technologies & Tools
 
@@ -24,8 +22,8 @@ Robust ML Architectures - Creating models resistant to data poisoning and other 
 
 📚 Latest Publications, Articles and conferences
 
-led a cybersecurity crisis room @campuscyber during AI Action Summit in Paris, 2025
-presented a novel model invesion attack leveraging generative models in Marseille for AMUSEC forum @CIRM, 2025
+- led a cybersecurity crisis room @campuscyber during AI Action Summit in Paris,France, 2025
+- presented a novel model invesion attack leveraging generative models in Marseille for AMUSEC forum @CIRM,France, 2025
 
 
 🌐 Connect With Me
