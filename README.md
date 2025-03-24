@@ -12,7 +12,7 @@ python
 
 🔬 Research Focus
 
-Computer Vision Security - Developing attacks to showcase the urge for comprehension of cybersecurity risks of AI systems
+Machine Learning security - Developing attacks to showcase the urge for comprehension of cybersecurity risks of AI systems
 
 Model Inversion Attacks - Exploring privacy implications of deployed ML models
 
