@@ -28,7 +28,7 @@ Robust ML Architectures - Creating models resistant to data poisoning and other 
 
 ## connect 
 
-https://www.kaggle.com/ilyesazouani
-https://leetcode.com/u/Ilyes-Azni/
-https://www.linkedin.com/in/ilyes-azouani-52821724a
+| https://www.kaggle.com/ilyesazouani |
+| https://leetcode.com/u/Ilyes-Azni/  |
+| https://www.linkedin.com/in/ilyes-azouani-52821724a |
 
