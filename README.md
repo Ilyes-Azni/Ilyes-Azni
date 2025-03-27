@@ -4,11 +4,7 @@ data scientist specializing in computer vision and machine learning security. I 
 
 ## techs
 
-python
-  numpy
-    pytorch, tensorflow,sklearn
-      skimage, opencv
-
+python | R | numpy | tf | pytorch | keras | mlflow | sklearn | scipy | 
 
 ## research areas
 
