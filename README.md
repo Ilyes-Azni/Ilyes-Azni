@@ -1,4 +1,4 @@
-## ilyes azouani | data scientist & ML security aspiring researcher
+## ilyes azouani | data scientist & ML security researcher
 
 data scientist specializing in computer vision and machine learning security. I build tools and frameworks to make ML systems more robust, secure, and effective.
 
