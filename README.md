@@ -2,9 +2,6 @@
 
 data scientist specializing in computer vision, NLP and machine learning security. I build tools and frameworks to make ML systems more robust, secure, and effective.
 
-## techs
-
-python | R | numpy | tf | pytorch | keras | mlflow | sklearn | scipy | 
 
 ## research areas
 
