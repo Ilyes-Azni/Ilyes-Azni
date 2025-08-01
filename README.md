@@ -1,17 +1,14 @@
 ## ilyes azouani | AI Research Engineer
 
-data scientist specializing in computer vision, NLP and machine learning security. I build tools and frameworks to make ML systems more robust, secure, and effective.
+into ai cybersecurity
 
 
 ## research areas
 
-Machine Learning security - Developing attacks to showcase the urge for comprehension of cybersecurity risks of AI systems
-
-Model Inversion Attacks - Exploring privacy implications of deployed ML models
-
-Explainable AI - Building tools to understand complex model decisions
-
-Robust ML Architectures - Creating models resistant to data poisoning and other attacks
+ai security 
+biometrics
+inverse biometrics
+cancelable biometrics
 
 ## publications, articles and conferences
 
